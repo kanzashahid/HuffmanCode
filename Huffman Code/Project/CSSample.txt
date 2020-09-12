@@ -1,0 +1,24 @@
+Goal:
+
+The goal of this course is to provide an introduction to the theory and practice of computer graphics. The course will assume a good background in programming in C or C++ and a background in mathematics including familiarity with the theory and use of coordinate geometry and of linear algebra such as matrix multiplication. Students will use the standards based OpenGL library in several programming projects illustrating the theory and practice of programming computer graphics applications.
+Course Syllabus:
+
+Topics covered will include:
+Introduction, Motivation, Uses, History
+Graphics Systems and Models
+Graphics Programming : Getting started with OpenGL
+Input and Interaction in OpenGL
+Geometrical Objects and Transformations in 2D and 3D, homogeneous coordinates, matrix representation, windows and viewports
+Viewing in 3D, projections, hidden surface removal
+Light, shading and materials. Illumination and Shading, light sources, (surface detail, ray tracing, radiosity)
+and possibly one or more from the following in less detail:
+From Vertices to Fragments : modeling, geometry processing, rasterization, fragment processing. Clipping, hidden surface removal, antialiasing.
+Discrete techniques: buffers, bit and pixel operations, texture mapping, compositing.
+Programmable shaders : OpenGL shading language, fragment shaders, cub and bump maps.
+Modelling Techniques, trees, scene graphs.
+Curve and surface representation
+Advanced rendering techniques: ray tracing, radiosity, image based rendering.
+Text:
+
+Edward Angel, Interactive Computer Graphics: A Top-Down Approach with OpenGL, 4th edition, Addison-Wesley, 2005.
+Additional References:
