@@ -5,7 +5,7 @@
 Even though hard drives are getting bigger, the files we want to store seem to keep pace with that growth which makes today's gargantuan disk seem too small to hold everything.
 One technique : compress the files.
 We may be able to "abbreviate" the contents in such a way to take up less space yet maintain the ability to reconstruct a full version of the original when needed. 
-Faster transfer of data
+Faster transfer of data
 
 # Huffman Code 
 The Huffman encoding scheme takes advantage of the disparity between frequencies and uses less storage for the frequently occurring characters at the expense of having to use more storage for each of the more rare characters. 
